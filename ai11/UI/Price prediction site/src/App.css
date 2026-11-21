@@ -1,0 +1,195 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.card {
+  width: 100%;
+  max-width: 440px;
+  background-color: #ffffff;
+  border-radius: 26px;
+  padding: 24px 28px 30px;
+  box-shadow: 0 10px 35px -4px rgba(0, 0, 0, 0.06), 0 4px 10px -2px rgba(15, 23, 42, 0.03);
+  border: 1px solid rgba(226, 232, 240, 0.7);
+  box-sizing: border-box;
+}
+
+/* Header bar */
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eaf0f6;
+  height: 48px;
+  border-radius: 12px;
+  padding: 0 18px;
+  margin-bottom: 30px;
+}
+
+.header-title {
+  font-size: 18px;
+  font-weight: 750;
+  color: #1a2a3a;
+  letter-spacing: -0.2px;
+  margin: 0;
+  text-align: center;
+}
+
+/* Form Styles */
+.predictor-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.form-label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+  flex: 0 0 135px;
+  text-align: left;
+}
+
+.input-wrapper {
+  flex: 1;
+  display: flex;
+}
+
+.form-input {
+  width: 100%;
+  height: 42px;
+  box-sizing: border-box;
+  border: 1.5px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 0 14px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #1e293b;
+  background-color: #ffffff;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  font-family: inherit;
+}
+
+.form-input:focus {
+  border-color: #21a49e;
+  box-shadow: 0 0 0 3px rgba(33, 164, 158, 0.15);
+}
+
+/* Custom styled select dropdown */
+.form-select {
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 14px 14px;
+  padding-right: 36px;
+}
+
+/* Chrome, Safari, Edge, Opera: remove spin buttons for cleaner appearance */
+.form-input[type="number"]::-webkit-outer-spin-button,
+.form-input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.form-input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* Bottom Action & Price Row */
+.card-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-top: 4px;
+  gap: 16px;
+}
+
+.price-display {
+  font-size: 25px;
+  font-weight: 800;
+  color: #0b2f48;
+  letter-spacing: -0.3px;
+  white-space: nowrap;
+  user-select: all;
+  transition: opacity 0.2s;
+}
+
+.price-display.loading {
+  opacity: 0.5;
+}
+
+.predict-button {
+  background-color: #21a49e;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  height: 44px;
+  padding: 0 28px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.1px;
+  transition: background-color 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
+  white-space: nowrap;
+  outline: none;
+}
+
+.predict-button:hover:not(:disabled) {
+  background-color: #1b8e88;
+  box-shadow: 0 3px 8px rgba(33, 164, 158, 0.25);
+}
+
+.predict-button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.predict-button:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+/* Error message styling */
+.error-banner {
+  margin-top: 8px;
+  padding: 10px 14px;
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #b91c1c;
+  border-radius: 8px;
+  font-size: 13.5px;
+  text-align: left;
+  line-height: 1.4;
+}
+
+@media (max-width: 480px) {
+  .card {
+    padding: 20px 18px 24px;
+    border-radius: 20px;
+  }
+
+  .form-label {
+    flex: 0 0 110px;
+    font-size: 14.5px;
+  }
+
+  .price-display {
+    font-size: 21px;
+  }
+
+  .predict-button {
+    padding: 0 20px;
+  }
+}
