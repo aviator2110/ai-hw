@@ -72,3 +72,39 @@ D:\programming\ai-hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API
 D:\programming\ai-hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.pdb
 D:\programming\ai-hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.genruntimeconfig.cache
 D:\programming\ai-hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\ref\Price Prediction Web API.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.staticwebassets.endpoints.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.exe
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.deps.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.runtimeconfig.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Price Prediction Web API.pdb
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.AssemblyInfo.cs
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.sourcelink.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\scopedcss\bundle\Price Prediction Web API.styles.css
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Pr.C198AA1C.Up2Date
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\refint\Price Prediction Web API.dll
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.pdb
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\Price Prediction Web API.genruntimeconfig.cache
+C:\Users\User\Desktop\programing\ai hw\ai11\APIs\Price Prediction Web Api\Price Prediction Web API\obj\Debug\net9.0\ref\Price Prediction Web API.dll

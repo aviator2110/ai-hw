@@ -9,6 +9,16 @@ builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var aiBasedUrl = builder.Configuration["AI_BASE"] ?? "http://localhost:8000";
 
 builder.Services.AddHttpClient(
@@ -16,6 +26,7 @@ builder.Services.AddHttpClient(
     client =>
     {
         client.BaseAddress = new Uri(aiBasedUrl);
+        client.Timeout = TimeSpan.FromMinutes(5);
     }
 );
 
@@ -28,6 +39,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.MapOpenApi();
 }
+
+app.UseCors();
 
 app.UseAuthorization();
 
